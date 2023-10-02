@@ -47,7 +47,7 @@ namespace Collection
             data[--SIZE] = null;
             return e;
         }
-
+//123
         public void push(object e)
         {
             ensureCapacity();
